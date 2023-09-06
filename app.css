@@ -4,7 +4,7 @@
     https://fonts.google.com/
     
   ----------------------------------------------------------------------- */
-  @import url(https://fonts.googleapis.com/css?family=Open+Sans:700,600,400,300);
+  @import url(https://fonts.googleapis.com/css?family=Forum:700,600,400,300);
 
   /* --------------------------------------------------------------------
   
@@ -13,11 +13,11 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #ffcdcd;
-      --color-light: #ee6c6c;
-      --color: #EC6565;
-      --color-dark: #ca4e4e;
-      --font: "Open Sans", Helvetica, sans-serif;
+      --color-lightest: #ae9b80;
+      --color-light: #9eb77e;
+      --color: #7d563f;
+      --color-dark: #5c5d3e;
+      --font: "Forum", Helvetica, sans-serif;
   }
 
   /* -------------------------------------------------------------------
